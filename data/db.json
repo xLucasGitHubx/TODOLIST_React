@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Almonds, Unsalted, in the blue bag"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": "2686",
+      "name": "new item"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "dfdfgd"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "erger"
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "item": "zefzefzef"
+    }
+  ]
+}
